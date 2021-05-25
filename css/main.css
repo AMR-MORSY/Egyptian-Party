@@ -167,21 +167,22 @@ body{
 @media (max-width: 576px) {
 #timer
 {
-    height: 100vh;
+    height: 700px;
 }
 .navContainer a
 {
-    font-size: 13px;
+    font-size: 10px;
 }
 .egyptionText
 {
-    width: 80%;
+    width: 100%;
 }
 .egyptionText h1
 {
-    font-size: 40px;
+    font-size: 20px;
 }
-
+.openIcon i, .openIcon span {
+    font-size: 15px;}
   }
 
 
@@ -193,7 +194,7 @@ body{
 
 .navContainer a
 {
-    font-size: 13px;
+    font-size: 10px;
 }
 
 .egyptionText
@@ -202,8 +203,10 @@ body{
 }
 .egyptionText h1
 {
-    font-size: 40px;
+    font-size: 20px;
 }
+.openIcon i, .openIcon span {
+    font-size: 15px;}
 
  }
 
